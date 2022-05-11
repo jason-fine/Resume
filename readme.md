@@ -1,0 +1,1 @@
+This is a working resume to be published using NPM.
